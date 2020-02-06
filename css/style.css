@@ -1,0 +1,23 @@
+body {
+    color:white;
+    height: 100vh;
+}
+
+h1 {
+    color:black;
+}
+
+#main {
+    background-color: black;
+    height:88.3vh;
+}
+
+#sub {
+    background-color: gray;
+    height: 88.3vh;
+}
+
+#footer {
+    height:6vh;
+    background-color: #343a40!important;
+}
